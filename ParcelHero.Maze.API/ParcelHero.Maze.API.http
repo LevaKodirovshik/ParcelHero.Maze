@@ -1,0 +1,6 @@
+@ParcelHero.Maze.API_HostAddress = http://localhost:5192
+
+GET {{ParcelHero.Maze.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
